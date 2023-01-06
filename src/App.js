@@ -1,12 +1,10 @@
-import React from 'react'
-import Project1 from './components/project1/project1'
-import Todo from './components/project1/project1'
-
-const App = () => {
+import Cards from "./components/Cards"
+function App(){
   return (
-    <>
-    <Project1/>
-    </>
+    <div className="App">
+      <h1>Find Me</h1>
+      <Cards/>
+    </div>
   )
 }
 
