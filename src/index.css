@@ -6,8 +6,8 @@ html, body{
   height: 100%;
 }
 body{
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  background-color: #fae19d;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #9dfaea;
   display: flex;
   justify-content: center;
   align-items: center;
